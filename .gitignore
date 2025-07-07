@@ -1,0 +1,17 @@
+# Ignorar arquivos de log
+
+*.log
+
+# Ignorar o banco de dados
+
+wp-content/uploads/
+
+wp-content/cache/
+
+# Ignorar arquivos temporários do editor
+
+*.swp
+
+# Ignorar configurações locais do WordPress
+
+wp-config.php
