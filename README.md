@@ -1,3 +1,4 @@
 # site WORDPRESS genérico
 Site desenvolvido utilizando Wordpress. <br>
-Acessível clicando <a href='https://luizarodrigues399.github.io/wordpress/'>aqui</a>.
+Acessível clicando <a href='https://luizarodrigues399.github.io/wordpress/'>aqui</a>.<br>
+Arquivo de configuração, backup do banco e demais instruções no gmail sob a pasta "Keith"
