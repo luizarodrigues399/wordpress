@@ -3,3 +3,4 @@ vendor/*
 .env
 .DS_Store
 wp-config.php
+wp-content/uploads/simply-static/temp-files/*
